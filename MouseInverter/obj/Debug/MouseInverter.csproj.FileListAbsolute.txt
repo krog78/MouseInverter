@@ -1,0 +1,12 @@
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\MouseInverter.csprojResolveAssemblyReference.cache
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\fgrs\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\bin\Debug\MouseInverter.exe.config
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\bin\Debug\MouseInverter.exe
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\bin\Debug\MouseInverter.pdb
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\obj\Debug\MouseInverter.csprojResolveAssemblyReference.cache
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\obj\Debug\MouseInverter.exe
+C:\Users\FGRS\Documents\Visual Studio 2012\Projects\MouseInverter\MouseInverter\obj\Debug\MouseInverter.pdb

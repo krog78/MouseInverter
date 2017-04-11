@@ -1,0 +1,1 @@
+c:\users\fgrs\documents\visual studio 2012\Projects\MouseInverter\MouseInverter\bin\Debug\MouseInverter.exe.config
