@@ -7,3 +7,6 @@ If the mouse goes left, the pointer will go down.
 If the mouse goes right, the pointer will go up.
 
 This is especially useful for people having the mouse syndrom.
+
+The .NET framework 4.5 must be installed (if not already present) to be able to use the exe file.
+https://www.microsoft.com/fr-fr/download/details.aspx?id=30653
